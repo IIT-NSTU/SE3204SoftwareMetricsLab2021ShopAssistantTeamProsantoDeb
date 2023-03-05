@@ -1,0 +1,325 @@
+Enter your directory : E:\2-1\Java\Shop-Assistant 2.0\For Developers (NetBeans Formate)\src
+
+|---------------------------------------------------------------------------|
+| No.                                                                     1 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                          Main |
+| File Name                                                   MainPage.java |
+| File Size in kilo bytes                                      3.7490234375 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       125 |
+| Number of blank lines                                         :        24 |
+| Number of commented lines                                     :         9 |
+| Number of non commented lines                                 :       116 |
+| Total Density of comments                                     :    7.20 % |
+| Number of statements                                          :        73 |
+| Number of headings                                            :         9 |
+| Number of lines except blanks, comments & headings            :        83 |
+| Number of characters                                          :      3839 |
+| Average number of characters per line                         :     30.71 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                     2 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                                AddCostPage.java |
+| File Size in kilo bytes                                      6.7724609375 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       209 |
+| Number of blank lines                                         :        36 |
+| Number of commented lines                                     :        15 |
+| Number of non commented lines                                 :       194 |
+| Total Density of comments                                     :    7.18 % |
+| Number of statements                                          :        99 |
+| Number of headings                                            :        18 |
+| Number of lines except blanks, comments & headings            :       140 |
+| Number of characters                                          :      6935 |
+| Average number of characters per line                         :     33.18 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                     3 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                     AdvancedStockCheckPage.java |
+| File Size in kilo bytes                                     10.8720703125 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       316 |
+| Number of blank lines                                         :        54 |
+| Number of commented lines                                     :        18 |
+| Number of non commented lines                                 :       298 |
+| Total Density of comments                                     :    5.70 % |
+| Number of statements                                          :       166 |
+| Number of headings                                            :        19 |
+| Number of lines except blanks, comments & headings            :       225 |
+| Number of characters                                          :     11133 |
+| Average number of characters per line                         :     35.23 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                     4 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                  CreatePurchaseInvoicePage.java |
+| File Size in kilo bytes                                      2.3388671875 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :        76 |
+| Number of blank lines                                         :        11 |
+| Number of commented lines                                     :        12 |
+| Number of non commented lines                                 :        64 |
+| Total Density of comments                                     :   15.79 % |
+| Number of statements                                          :        25 |
+| Number of headings                                            :         6 |
+| Number of lines except blanks, comments & headings            :        47 |
+| Number of characters                                          :      2395 |
+| Average number of characters per line                         :     31.51 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                     5 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                     CreateSalesInvoicePage.java |
+| File Size in kilo bytes                                         3.3828125 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :        98 |
+| Number of blank lines                                         :        13 |
+| Number of commented lines                                     :        12 |
+| Number of non commented lines                                 :        86 |
+| Total Density of comments                                     :   12.24 % |
+| Number of statements                                          :        34 |
+| Number of headings                                            :         6 |
+| Number of lines except blanks, comments & headings            :        67 |
+| Number of characters                                          :      3464 |
+| Average number of characters per line                         :     35.35 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                     6 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                        DailyIncomeCostPage.java |
+| File Size in kilo bytes                                     11.5146484375 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       348 |
+| Number of blank lines                                         :        56 |
+| Number of commented lines                                     :        24 |
+| Number of non commented lines                                 :       324 |
+| Total Density of comments                                     :    6.90 % |
+| Number of statements                                          :       178 |
+| Number of headings                                            :        18 |
+| Number of lines except blanks, comments & headings            :       250 |
+| Number of characters                                          :     11791 |
+| Average number of characters per line                         :     33.88 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                     7 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                               DueCheckPage.java |
+| File Size in kilo bytes                                     16.8857421875 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       511 |
+| Number of blank lines                                         :       123 |
+| Number of commented lines                                     :        34 |
+| Number of non commented lines                                 :       477 |
+| Total Density of comments                                     :    6.65 % |
+| Number of statements                                          :       230 |
+| Number of headings                                            :        23 |
+| Number of lines except blanks, comments & headings            :       331 |
+| Number of characters                                          :     17291 |
+| Average number of characters per line                         :     33.84 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                     8 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                                   HomePage.java |
+| File Size in kilo bytes                                      11.287109375 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       298 |
+| Number of blank lines                                         :        51 |
+| Number of commented lines                                     :        18 |
+| Number of non commented lines                                 :       280 |
+| Total Density of comments                                     :    6.04 % |
+| Number of statements                                          :       145 |
+| Number of headings                                            :        18 |
+| Number of lines except blanks, comments & headings            :       211 |
+| Number of characters                                          :     11558 |
+| Average number of characters per line                         :     38.79 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                     9 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                                  LoginPage.java |
+| File Size in kilo bytes                                         3.5234375 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       108 |
+| Number of blank lines                                         :        16 |
+| Number of commented lines                                     :         9 |
+| Number of non commented lines                                 :        99 |
+| Total Density of comments                                     :    8.33 % |
+| Number of statements                                          :        62 |
+| Number of headings                                            :        13 |
+| Number of lines except blanks, comments & headings            :        70 |
+| Number of characters                                          :      3608 |
+| Average number of characters per line                         :     33.41 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                    10 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                               SettingsPage.java |
+| File Size in kilo bytes                                     24.2001953125 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       620 |
+| Number of blank lines                                         :       105 |
+| Number of commented lines                                     :        44 |
+| Number of non commented lines                                 :       576 |
+| Total Density of comments                                     :    7.10 % |
+| Number of statements                                          :       310 |
+| Number of headings                                            :        21 |
+| Number of lines except blanks, comments & headings            :       450 |
+| Number of characters                                          :     24781 |
+| Average number of characters per line                         :     39.97 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                    11 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                        StaffAttendancePage.java |
+| File Size in kilo bytes                                        13.1015625 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       382 |
+| Number of blank lines                                         :        75 |
+| Number of commented lines                                     :        31 |
+| Number of non commented lines                                 :       351 |
+| Total Density of comments                                     :    8.12 % |
+| Number of statements                                          :       181 |
+| Number of headings                                            :        23 |
+| Number of lines except blanks, comments & headings            :       253 |
+| Number of characters                                          :     13416 |
+| Average number of characters per line                         :     35.12 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                    12 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                 ShopAssistant |
+| File Name                                             StockCheckPage.java |
+| File Size in kilo bytes                                      5.6708984375 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       173 |
+| Number of blank lines                                         :        33 |
+| Number of commented lines                                     :        15 |
+| Number of non commented lines                                 :       158 |
+| Total Density of comments                                     :    8.67 % |
+| Number of statements                                          :        90 |
+| Number of headings                                            :        19 |
+| Number of lines except blanks, comments & headings            :       106 |
+| Number of characters                                          :      5807 |
+| Average number of characters per line                         :     33.57 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                    13 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                     Templates |
+| File Name                                          DashBoardTemplate.java |
+| File Size in kilo bytes                                     11.5478515625 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       355 |
+| Number of blank lines                                         :        49 |
+| Number of commented lines                                     :        70 |
+| Number of non commented lines                                 :       285 |
+| Total Density of comments                                     :   19.72 % |
+| Number of statements                                          :       133 |
+| Number of headings                                            :        22 |
+| Number of lines except blanks, comments & headings            :       214 |
+| Number of characters                                          :     11825 |
+| Average number of characters per line                         :     33.31 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                    14 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                     Templates |
+| File Name                                                 FrameSetup.java |
+| File Size in kilo bytes                                     10.7216796875 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :       315 |
+| Number of blank lines                                         :        53 |
+| Number of commented lines                                     :        67 |
+| Number of non commented lines                                 :       248 |
+| Total Density of comments                                     :   21.27 % |
+| Number of statements                                          :       116 |
+| Number of headings                                            :        10 |
+| Number of lines except blanks, comments & headings            :       185 |
+| Number of characters                                          :     10979 |
+| Average number of characters per line                         :     34.85 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                    15 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                     Templates |
+| File Name                                   InvoiceGeneratorTemplate.java |
+| File Size in kilo bytes                                     39.8701171875 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :      1001 |
+| Number of blank lines                                         :       135 |
+| Number of commented lines                                     :        75 |
+| Number of non commented lines                                 :       926 |
+| Total Density of comments                                     :    7.49 % |
+| Number of statements                                          :       443 |
+| Number of headings                                            :        29 |
+| Number of lines except blanks, comments & headings            :       762 |
+| Number of characters                                          :     40827 |
+| Average number of characters per line                         :     40.79 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+| No.                                                                    16 |
+|---------------------------------------------------------------------------|
+| Folder Name                                                     Templates |
+| File Name                                           StartingTemplate.java |
+| File Size in kilo bytes                                      1.8642578125 |
+|---------------------------------------------------------------------------|
+| Number of physical lines (including blank lines)              :        76 |
+| Number of blank lines                                         :        16 |
+| Number of commented lines                                     :        14 |
+| Number of non commented lines                                 :        62 |
+| Total Density of comments                                     :   18.42 % |
+| Number of statements                                          :        32 |
+| Number of headings                                            :         5 |
+| Number of lines except blanks, comments & headings            :        41 |
+| Number of characters                                          :      1909 |
+| Average number of characters per line                         :     25.12 |
+|---------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------|
+|-----------------------------Summary---------------------------------------|
+|---------------------------------------------------------------------------|
+| Total number of files                                                  16 |
+| Total File Size in kilo bytes                               177.302734375 |
+|---------------------------------------------------------------------------|
+| Total number of physical lines (including blank lines)        :      5011 |
+| Total number of blank lines                                   :       850 |
+| Total number of commented lines                               :       467 |
+| Total number of non commented lines                           :      4544 |
+| Total Density of comments                                     :    9.32 % |
+| Total number of statements                                    :      2317 |
+| Total number of headings                                      :       259 |
+| Total number of lines except blanks, comments & headings      :      3435 |
+| Total number of characters                                    :    181558 |
+| Average number of characters per line                         :     36.23 |
+|---------------------------------------------------------------------------|
+
+Process finished with exit code 0
