@@ -1,0 +1,443 @@
+Project Name,Package Name,Type Name,Method Name,Implementation Smell,Cause of the Smell,Method start line no
+Source Code,Main,MainPage,setComponentPanel,Magic Number,The method contains a magic number: 12,27
+Source Code,Main,MainPage,setComponentPanel,Magic Number,The method contains a magic number: 18,27
+Source Code,Main,MainPage,setComponentPanel,Magic Number,The method contains a magic number: 22,27
+Source Code,Main,MainPage,setComponentPanel,Magic Number,The method contains a magic number: 14,27
+Source Code,Main,MainPage,setComponentPanel,Magic Number,The method contains a magic number: 20,27
+Source Code,Main,MainPage,setComponentPanel,Magic Number,The method contains a magic number: 16,27
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 870,84
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 450,84
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 18,84
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 80,84
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 18,84
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 87,84
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 20,84
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 87,84
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 100,84
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 100,84
+Source Code,Main,MainPage,main,Magic Number,The method contains a magic number: 500,84
+Source Code,ShopAssistant,AddCostPage,setPageButton,Magic Number,The method contains a magic number: 16,44
+Source Code,ShopAssistant,AddCostPage,setMainPanel,Magic Number,The method contains a magic number: 120,54
+Source Code,ShopAssistant,AddCostPage,setMainPanel,Magic Number,The method contains a magic number: 50,54
+Source Code,ShopAssistant,AddCostPage,setMainPanel,Magic Number,The method contains a magic number: 8,54
+Source Code,ShopAssistant,AddCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,80
+Source Code,ShopAssistant,AddCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,80
+Source Code,ShopAssistant,AddCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,80
+Source Code,ShopAssistant,AddCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,80
+Source Code,ShopAssistant,AddCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,80
+Source Code,ShopAssistant,AddCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,80
+Source Code,ShopAssistant,AddCostPage,setInputPanel,Magic Number,The method contains a magic number: 18,80
+Source Code,ShopAssistant,AddCostPage,setAddCostFeatures,Empty catch clause,The method has an empty catch block.,127
+Source Code,ShopAssistant,AddCostPage,setAddCostFeatures,Empty catch clause,The method has an empty catch block.,127
+Source Code,ShopAssistant,AddCostPage,setAddCostFeatures,Long Statement,The length of the statement "bw.append("P100000000" + "`" + dateTextField.getText() + "`"+ "Cost By "+ costTypeCombobox.getSelectedItem()+ "`"+ costAmountTextField.getText()+ "\n");" is 152.,127
+Source Code,ShopAssistant,AddCostPage,setAddCostFeatures,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`costTypeCombobox.getSelectedItem() + " " + costAmountTextField.getText()+ " Added Successfully");" is 132.,127
+Source Code,ShopAssistant,AddCostPage,setAddCostFeatures,Magic Number,The method contains a magic number: 100000000,127
+Source Code,ShopAssistant,AddCostPage,keyReleased,Empty catch clause,The method has an empty catch block.,163
+Source Code,ShopAssistant,AddCostPage,keyReleased,Magic Number,The method contains a magic number: 100000000,163
+Source Code,ShopAssistant,AddCostPage,actionPerformed,Empty catch clause,The method has an empty catch block.,178
+Source Code,ShopAssistant,AddCostPage,actionPerformed,Long Statement,The length of the statement "bw.append("P100000000" + "`" + dateTextField.getText() + "`"+ "Cost By "+ costTypeCombobox.getSelectedItem()+ "`"+ costAmountTextField.getText()+ "\n");" is 152.,178
+Source Code,ShopAssistant,AddCostPage,actionPerformed,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`costTypeCombobox.getSelectedItem() + " " + costAmountTextField.getText()+ " Added Successfully");" is 132.,178
+Source Code,ShopAssistant,AdvancedStockCheckPage,setPageButton,Magic Number,The method contains a magic number: 16,49
+Source Code,ShopAssistant,AdvancedStockCheckPage,setMainPanel,Magic Number,The method contains a magic number: 120,59
+Source Code,ShopAssistant,AdvancedStockCheckPage,setMainPanel,Magic Number,The method contains a magic number: 50,59
+Source Code,ShopAssistant,AdvancedStockCheckPage,setMainPanel,Magic Number,The method contains a magic number: 8,59
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 2,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 3,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,85
+Source Code,ShopAssistant,AdvancedStockCheckPage,setManualDate,Magic Number,The method contains a magic number: 10,153
+Source Code,ShopAssistant,AdvancedStockCheckPage,setManualDate,Magic Number,The method contains a magic number: 10,153
+Source Code,ShopAssistant,AdvancedStockCheckPage,setManualDate,Magic Number,The method contains a magic number: 2020,153
+Source Code,ShopAssistant,AdvancedStockCheckPage,setAdvancedStockCheckFeatures,Complex Conditional,The conditional expression !dayCombobox.getSelectedItem().equals("") && !monthCombobox.getSelectedItem().equals("") && !yearCombobox.getSelectedItem().equals("")&& !productTypeCombobox.getSelectedItem().equals("") is complex.,203
+Source Code,ShopAssistant,AdvancedStockCheckPage,setAdvancedStockCheckFeatures,Complex Conditional,The conditional expression !monthCombobox.getSelectedItem().equals("") && !yearCombobox.getSelectedItem().equals("") && !productTypeCombobox.getSelectedItem().equals("") is complex.,203
+Source Code,ShopAssistant,AdvancedStockCheckPage,setAdvancedStockCheckFeatures,Empty catch clause,The method has an empty catch block.,203
+Source Code,ShopAssistant,AdvancedStockCheckPage,setAdvancedStockCheckFeatures,Long Statement,The length of the statement "if (!dayCombobox.getSelectedItem().equals("") && !monthCombobox.getSelectedItem().equals("") && !yearCombobox.getSelectedItem().equals("")&& !productTypeCombobox.getSelectedItem().equals("")) {" is 193.,203
+Source Code,ShopAssistant,AdvancedStockCheckPage,setAdvancedStockCheckFeatures,Long Statement,The length of the statement "setModelNumberCombobox(dayCombobox.getSelectedItem().toString() + "/" + monthCombobox.getSelectedItem().toString()+ "/"+ yearCombobox.getSelectedItem().toString());" is 164.,203
+Source Code,ShopAssistant,AdvancedStockCheckPage,setAdvancedStockCheckFeatures,Long Statement,The length of the statement "else if (!monthCombobox.getSelectedItem().equals("") && !yearCombobox.getSelectedItem().equals("") && !productTypeCombobox.getSelectedItem().equals("")) {" is 154.,203
+Source Code,ShopAssistant,AdvancedStockCheckPage,actionPerformed,Complex Conditional,The conditional expression !dayCombobox.getSelectedItem().equals("") && !monthCombobox.getSelectedItem().equals("") && !yearCombobox.getSelectedItem().equals("")&& !productTypeCombobox.getSelectedItem().equals("") is complex.,210
+Source Code,ShopAssistant,AdvancedStockCheckPage,actionPerformed,Complex Conditional,The conditional expression !monthCombobox.getSelectedItem().equals("") && !yearCombobox.getSelectedItem().equals("") && !productTypeCombobox.getSelectedItem().equals("") is complex.,210
+Source Code,ShopAssistant,AdvancedStockCheckPage,actionPerformed,Long Statement,The length of the statement "if (!dayCombobox.getSelectedItem().equals("") && !monthCombobox.getSelectedItem().equals("") && !yearCombobox.getSelectedItem().equals("")&& !productTypeCombobox.getSelectedItem().equals("")) {" is 193.,210
+Source Code,ShopAssistant,AdvancedStockCheckPage,actionPerformed,Long Statement,The length of the statement "setModelNumberCombobox(dayCombobox.getSelectedItem().toString() + "/" + monthCombobox.getSelectedItem().toString()+ "/"+ yearCombobox.getSelectedItem().toString());" is 164.,210
+Source Code,ShopAssistant,AdvancedStockCheckPage,actionPerformed,Long Statement,The length of the statement "else if (!monthCombobox.getSelectedItem().equals("") && !yearCombobox.getSelectedItem().equals("") && !productTypeCombobox.getSelectedItem().equals("")) {" is 154.,210
+Source Code,ShopAssistant,AdvancedStockCheckPage,actionPerformed,Empty catch clause,The method has an empty catch block.,230
+Source Code,ShopAssistant,AdvancedStockCheckPage,setModelNumberCombobox,Long Statement,The length of the statement "showQuantityTextField.setText("Total " + productTypeCombobox.getSelectedItem() + " Sold : "+ salesModelCount+ " Pcs Purchased : "+ purchaseModelCount+ " Pcs\n");" is 161.,249
+Source Code,ShopAssistant,AdvancedStockCheckPage,setModelNumberCombobox,Long Statement,The length of the statement "printTextarea.append("Total " + productTypeCombobox.getSelectedItem() + " Sold : "+ salesModelCount+ " Pcs Purchased : "+ purchaseModelCount+ " Pcs\n");" is 152.,249
+Source Code,ShopAssistant,CreatePurchaseInvoicePage,setPageButton,Magic Number,The method contains a magic number: 16,26
+Source Code,ShopAssistant,CreateSalesInvoicePage,setPageButton,Magic Number,The method contains a magic number: 16,26
+Source Code,ShopAssistant,CreateSalesInvoicePage,setQuantityTextFieldListener,Empty catch clause,The method has an empty catch block.,36
+Source Code,ShopAssistant,CreateSalesInvoicePage,keyReleased,Empty catch clause,The method has an empty catch block.,47
+Source Code,ShopAssistant,DailyIncomeCostPage,setPageButton,Magic Number,The method contains a magic number: 16,47
+Source Code,ShopAssistant,DailyIncomeCostPage,setMainPanel,Magic Number,The method contains a magic number: 70,57
+Source Code,ShopAssistant,DailyIncomeCostPage,setMainPanel,Magic Number,The method contains a magic number: 25,57
+Source Code,ShopAssistant,DailyIncomeCostPage,setMainPanel,Magic Number,The method contains a magic number: 2,57
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 4,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 2,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 3,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 16,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setInputPanel,Magic Number,The method contains a magic number: 14,84
+Source Code,ShopAssistant,DailyIncomeCostPage,setManualDate,Magic Number,The method contains a magic number: 10,150
+Source Code,ShopAssistant,DailyIncomeCostPage,setManualDate,Magic Number,The method contains a magic number: 10,150
+Source Code,ShopAssistant,DailyIncomeCostPage,setManualDate,Magic Number,The method contains a magic number: 2020,150
+Source Code,ShopAssistant,DailyIncomeCostPage,setIncomeCostInformation,Complex Method,Cyclomatic complexity of the method is 10,200
+Source Code,ShopAssistant,DailyIncomeCostPage,setIncomeCostInformation,Magic Number,The method contains a magic number: 10,200
+Source Code,ShopAssistant,DailyIncomeCostPage,setIncomeCostInformation,Magic Number,The method contains a magic number: 11,200
+Source Code,ShopAssistant,DailyIncomeCostPage,setIncomeCostInformation,Magic Number,The method contains a magic number: 21,200
+Source Code,ShopAssistant,DailyIncomeCostPage,setIncomeCostInformation,Magic Number,The method contains a magic number: 13,200
+Source Code,ShopAssistant,DailyIncomeCostPage,setIncomeCostInformation,Magic Number,The method contains a magic number: 21,200
+Source Code,ShopAssistant,DailyIncomeCostPage,setIncomeCostInformation,Magic Number,The method contains a magic number: 11,200
+Source Code,ShopAssistant,DailyIncomeCostPage,setDailyIncomeCostFeatures,Complex Conditional,The conditional expression !"".equals(dayCombobox.getSelectedItem()) && !"".equals(monthCombobox.getSelectedItem()) && !"".equals(yearCombobox.getSelectedItem()) is complex.,295
+Source Code,ShopAssistant,DailyIncomeCostPage,setDailyIncomeCostFeatures,Empty catch clause,The method has an empty catch block.,295
+Source Code,ShopAssistant,DailyIncomeCostPage,setDailyIncomeCostFeatures,Long Statement,The length of the statement "if (!"".equals(dayCombobox.getSelectedItem()) && !"".equals(monthCombobox.getSelectedItem()) && !"".equals(yearCombobox.getSelectedItem())) {" is 141.,295
+Source Code,ShopAssistant,DailyIncomeCostPage,setDailyIncomeCostFeatures,Long Statement,The length of the statement "String result=dayCombobox.getSelectedItem() + "/" + monthCombobox.getSelectedItem()+ "/"+ yearCombobox.getSelectedItem();" is 121.,295
+Source Code,ShopAssistant,DailyIncomeCostPage,actionPerformed,Complex Conditional,The conditional expression !"".equals(dayCombobox.getSelectedItem()) && !"".equals(monthCombobox.getSelectedItem()) && !"".equals(yearCombobox.getSelectedItem()) is complex.,302
+Source Code,ShopAssistant,DailyIncomeCostPage,actionPerformed,Long Statement,The length of the statement "if (!"".equals(dayCombobox.getSelectedItem()) && !"".equals(monthCombobox.getSelectedItem()) && !"".equals(yearCombobox.getSelectedItem())) {" is 141.,302
+Source Code,ShopAssistant,DailyIncomeCostPage,actionPerformed,Long Statement,The length of the statement "String result=dayCombobox.getSelectedItem() + "/" + monthCombobox.getSelectedItem()+ "/"+ yearCombobox.getSelectedItem();" is 121.,302
+Source Code,ShopAssistant,DailyIncomeCostPage,actionPerformed,Empty catch clause,The method has an empty catch block.,323
+Source Code,ShopAssistant,DueCheckPage,setPageButton,Magic Number,The method contains a magic number: 16,48
+Source Code,ShopAssistant,DueCheckPage,setMainPanel,Magic Number,The method contains a magic number: 120,58
+Source Code,ShopAssistant,DueCheckPage,setMainPanel,Magic Number,The method contains a magic number: 50,58
+Source Code,ShopAssistant,DueCheckPage,setMainPanel,Magic Number,The method contains a magic number: 8,58
+Source Code,ShopAssistant,DueCheckPage,setMainPanel,Magic Number,The method contains a magic number: 2,58
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 14,86
+Source Code,ShopAssistant,DueCheckPage,setCustomerDue,Magic Number,The method contains a magic number: 10,193
+Source Code,ShopAssistant,DueCheckPage,setCustomerDue,Magic Number,The method contains a magic number: 10,193
+Source Code,ShopAssistant,DueCheckPage,setCompanyDue,Magic Number,The method contains a magic number: 10,224
+Source Code,ShopAssistant,DueCheckPage,setCompanyDue,Magic Number,The method contains a magic number: 10,224
+Source Code,ShopAssistant,DueCheckPage,checkDue,Magic Number,The method contains a magic number: 10,257
+Source Code,ShopAssistant,DueCheckPage,checkDue,Magic Number,The method contains a magic number: 10,257
+Source Code,ShopAssistant,DueCheckPage,checkMoneyDigit,Complex Conditional,The conditional expression c != '0' && c != '1' && c != '2' && c != '3' && c != '4' && c != '5' && c != '6' && c != '7' && c != '8' && c != '9' && c != (char)10 && c != (char)8 is complex.,329
+Source Code,ShopAssistant,DueCheckPage,checkMoneyDigit,Long Statement,The length of the statement "if (c != '0' && c != '1' && c != '2' && c != '3' && c != '4' && c != '5' && c != '6' && c != '7' && c != '8' && c != '9' && c != (char)10 && c != (char)8) return true;" is 167.,329
+Source Code,ShopAssistant,DueCheckPage,checkMoneyDigit,Magic Number,The method contains a magic number: 10,329
+Source Code,ShopAssistant,DueCheckPage,checkMoneyDigit,Magic Number,The method contains a magic number: 8,329
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Complex Method,Cyclomatic complexity of the method is 9,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Empty catch clause,The method has an empty catch block.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Empty catch clause,The method has an empty catch block.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Method,The method has 104 lines of code.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Due Amount is " + checkDue((String)customerDueIdCombobox.getSelectedItem()`"SalesDatabase.txt"));" is 133.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Due Amount is " + checkDue((String)companyDueIdCombobox.getSelectedItem()`"PurchaseDatabase.txt"));" is 135.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Statement,The length of the statement "else if (Integer.parseInt(customerAmountTextField.getText()) > checkDue((String)customerDueIdCombobox.getSelectedItem()`"SalesDatabase.txt")) {" is 143.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Please Do Not Enter Extra Amount\nYour Due is " + checkDue((String)customerDueIdCombobox.getSelectedItem()`"SalesDatabase.txt"));" is 165.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Statement,The length of the statement "bw.append(customerDueIdCombobox.getSelectedItem() + "`" + dateTextField.getText()+ "`"+ "Income By Customer Due Amount"+ "`"+ customerAmountTextField.getText()+ "\n");" is 167.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Remaining Due Amount is " + checkDue((String)customerDueIdCombobox.getSelectedItem()`"SalesDatabase.txt"));" is 143.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Statement,The length of the statement "else if (Integer.parseInt(companyAmountTextField.getText()) > checkDue((String)companyDueIdCombobox.getSelectedItem()`"PurchaseDatabase.txt")) {" is 144.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Please Do Not Enter Extra Amount\nYour Due is " + checkDue((String)companyDueIdCombobox.getSelectedItem()`"PurchaseDatabase.txt"));" is 167.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Statement,The length of the statement "bw.append(companyDueIdCombobox.getSelectedItem() + "`" + dateTextField.getText()+ "`"+ "Cost By Company Due Amount"+ "`"+ companyAmountTextField.getText()+ "\n");" is 162.,352
+Source Code,ShopAssistant,DueCheckPage,setDueCheckFeatures,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Remaining Due Amount is " + checkDue((String)companyDueIdCombobox.getSelectedItem()`"PurchaseDatabase.txt"));" is 145.,352
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Due Amount is " + checkDue((String)customerDueIdCombobox.getSelectedItem()`"SalesDatabase.txt"));" is 133.,359
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Due Amount is " + checkDue((String)companyDueIdCombobox.getSelectedItem()`"PurchaseDatabase.txt"));" is 135.,399
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Empty catch clause,The method has an empty catch block.,437
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Long Statement,The length of the statement "else if (Integer.parseInt(customerAmountTextField.getText()) > checkDue((String)customerDueIdCombobox.getSelectedItem()`"SalesDatabase.txt")) {" is 143.,437
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Please Do Not Enter Extra Amount\nYour Due is " + checkDue((String)customerDueIdCombobox.getSelectedItem()`"SalesDatabase.txt"));" is 165.,437
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Long Statement,The length of the statement "bw.append(customerDueIdCombobox.getSelectedItem() + "`" + dateTextField.getText()+ "`"+ "Income By Customer Due Amount"+ "`"+ customerAmountTextField.getText()+ "\n");" is 167.,437
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Remaining Due Amount is " + checkDue((String)customerDueIdCombobox.getSelectedItem()`"SalesDatabase.txt"));" is 143.,437
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Empty catch clause,The method has an empty catch block.,471
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Long Statement,The length of the statement "else if (Integer.parseInt(companyAmountTextField.getText()) > checkDue((String)companyDueIdCombobox.getSelectedItem()`"PurchaseDatabase.txt")) {" is 144.,471
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Please Do Not Enter Extra Amount\nYour Due is " + checkDue((String)companyDueIdCombobox.getSelectedItem()`"PurchaseDatabase.txt"));" is 167.,471
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Long Statement,The length of the statement "bw.append(companyDueIdCombobox.getSelectedItem() + "`" + dateTextField.getText()+ "`"+ "Cost By Company Due Amount"+ "`"+ companyAmountTextField.getText()+ "\n");" is 162.,471
+Source Code,ShopAssistant,DueCheckPage,actionPerformed,Long Statement,The length of the statement "JOptionPane.showMessageDialog(null`"Remaining Due Amount is " + checkDue((String)companyDueIdCombobox.getSelectedItem()`"PurchaseDatabase.txt"));" is 145.,471
+Source Code,ShopAssistant,HomePage,setPageButton,Magic Number,The method contains a magic number: 16,45
+Source Code,ShopAssistant,HomePage,setMainPanel,Magic Number,The method contains a magic number: 90,55
+Source Code,ShopAssistant,HomePage,setMainPanel,Magic Number,The method contains a magic number: 40,55
+Source Code,ShopAssistant,HomePage,setSearchPanel,Magic Number,The method contains a magic number: 3,82
+Source Code,ShopAssistant,HomePage,setSearchPanel,Magic Number,The method contains a magic number: 2,82
+Source Code,ShopAssistant,HomePage,setSearchPanel,Magic Number,The method contains a magic number: 16,82
+Source Code,ShopAssistant,HomePage,setSearchPanel,Magic Number,The method contains a magic number: 16,82
+Source Code,ShopAssistant,HomePage,setSearchPanel,Magic Number,The method contains a magic number: 16,82
+Source Code,ShopAssistant,HomePage,setSearchPanel,Magic Number,The method contains a magic number: 16,82
+Source Code,ShopAssistant,HomePage,setSearchPanel,Magic Number,The method contains a magic number: 16,82
+Source Code,ShopAssistant,HomePage,setHTMLText,Complex Method,Cyclomatic complexity of the method is 13,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Long Statement,The length of the statement "dataArray[m]=" Due Amount : " + (dueAmount - currentPayment) + "("+ strIncomeCost.substring(11`21)+ ") Paid "+ currentPayment;" is 126.,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Long Statement,The length of the statement "dataArray[m]=" Due Amount : " + (dueAmount - currentPayment) + "("+ strIncomeCost.substring(11`21)+ ") Paid "+ currentPayment;" is 126.,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Long Statement,The length of the statement "HTMLText=HTMLText + "<tr style=\"color:red;font-weight:bold;\"><td>" + dataArray[i].substring(0`dataArray[i].indexOf(":"))+ "</td><td>:</td><td>"+ dataArray[i].substring(dataArray[i].indexOf(":") + 1`dataArray[i].length())+ "</td></tr>";" is 237.,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Long Statement,The length of the statement "HTMLText=HTMLText + "<tr><td>" + dataArray[i].substring(0`dataArray[i].indexOf(":"))+ "</td><td>:</td><td>"+ dataArray[i].substring(dataArray[i].indexOf(":") + 1`dataArray[i].length())+ "</td></tr>";" is 199.,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 2,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 2,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 3,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 3,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 4,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 4,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 5,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 5,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 6,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 6,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 7,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 7,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 8,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 8,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 9,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 9,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 2,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 2,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 17,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 10,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 10,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 65,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 11,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 21,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 68,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 11,121
+Source Code,ShopAssistant,HomePage,setHTMLText,Magic Number,The method contains a magic number: 21,121
+Source Code,ShopAssistant,HomePage,setSeachFeatures,Empty catch clause,The method has an empty catch block.,246
+Source Code,ShopAssistant,HomePage,actionPerformed,Empty catch clause,The method has an empty catch block.,281
+Source Code,ShopAssistant,LoginPage,setComponetPanel,Magic Number,The method contains a magic number: 11,34
+Source Code,ShopAssistant,LoginPage,setComponetPanel,Magic Number,The method contains a magic number: 30,34
+Source Code,ShopAssistant,LoginPage,setComponetPanel,Magic Number,The method contains a magic number: 20,34
+Source Code,ShopAssistant,LoginPage,setComponetPanel,Magic Number,The method contains a magic number: 16,34
+Source Code,ShopAssistant,LoginPage,setComponetPanel,Magic Number,The method contains a magic number: 2,34
+Source Code,ShopAssistant,LoginPage,setComponetPanel,Magic Number,The method contains a magic number: 20,34
+Source Code,ShopAssistant,LoginPage,setComponetPanel,Magic Number,The method contains a magic number: 16,34
+Source Code,ShopAssistant,LoginPage,setComponetPanel,Magic Number,The method contains a magic number: 2,34
+Source Code,ShopAssistant,LoginPage,setLoginFeatures,Complex Conditional,The conditional expression "admin".equals(usernameTextField.getText()) && ("admin".equals(passwordField.getText()) || getPassword().equals(passwordField.getText())) is complex.,86
+Source Code,ShopAssistant,LoginPage,setLoginFeatures,Long Statement,The length of the statement "if ("admin".equals(usernameTextField.getText()) && ("admin".equals(passwordField.getText()) || getPassword().equals(passwordField.getText()))) {" is 144.,86
+Source Code,ShopAssistant,LoginPage,actionPerformed,Complex Conditional,The conditional expression "admin".equals(usernameTextField.getText()) && ("admin".equals(passwordField.getText()) || getPassword().equals(passwordField.getText())) is complex.,93
+Source Code,ShopAssistant,LoginPage,actionPerformed,Long Statement,The length of the statement "if ("admin".equals(usernameTextField.getText()) && ("admin".equals(passwordField.getText()) || getPassword().equals(passwordField.getText()))) {" is 144.,93
+Source Code,ShopAssistant,SettingsPage,setPageButton,Magic Number,The method contains a magic number: 16,50
+Source Code,ShopAssistant,SettingsPage,setMainPanel,Magic Number,The method contains a magic number: 50,60
+Source Code,ShopAssistant,SettingsPage,setMainPanel,Magic Number,The method contains a magic number: 30,60
+Source Code,ShopAssistant,SettingsPage,setMainPanel,Magic Number,The method contains a magic number: 2,60
+Source Code,ShopAssistant,SettingsPage,setMainPanel,Magic Number,The method contains a magic number: 20,60
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Long Identifier,The length of the field passwordChangeAddNewStaffPanel is 30.,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 12,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setPasswordChangeAddNewStaffPanel,Magic Number,The method contains a magic number: 16,98
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 12,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setAddNewModelRemoveMemberPanel,Magic Number,The method contains a magic number: 16,182
+Source Code,ShopAssistant,SettingsPage,setSettingsPageFeatures,Complex Method,Cyclomatic complexity of the method is 21,265
+Source Code,ShopAssistant,SettingsPage,setSettingsPageFeatures,Long Method,The method has 190 lines of code.,265
+Source Code,ShopAssistant,StaffAttendancePage,setPageButton,Magic Number,The method contains a magic number: 16,52
+Source Code,ShopAssistant,StaffAttendancePage,setMainPanel,Magic Number,The method contains a magic number: 50,62
+Source Code,ShopAssistant,StaffAttendancePage,setMainPanel,Magic Number,The method contains a magic number: 30,62
+Source Code,ShopAssistant,StaffAttendancePage,setMainPanel,Magic Number,The method contains a magic number: 2,62
+Source Code,ShopAssistant,StaffAttendancePage,setintputPanel,Magic Number,The method contains a magic number: 9,97
+Source Code,ShopAssistant,StaffAttendancePage,setintputPanel,Magic Number,The method contains a magic number: 16,97
+Source Code,ShopAssistant,StaffAttendancePage,setintputPanel,Magic Number,The method contains a magic number: 16,97
+Source Code,ShopAssistant,StaffAttendancePage,setintputPanel,Magic Number,The method contains a magic number: 16,97
+Source Code,ShopAssistant,StaffAttendancePage,setintputPanel,Magic Number,The method contains a magic number: 16,97
+Source Code,ShopAssistant,StaffAttendancePage,setintputPanel,Magic Number,The method contains a magic number: 16,97
+Source Code,ShopAssistant,StaffAttendancePage,setintputPanel,Magic Number,The method contains a magic number: 16,97
+Source Code,ShopAssistant,StaffAttendancePage,setintputPanel,Magic Number,The method contains a magic number: 16,97
+Source Code,ShopAssistant,StaffAttendancePage,setintputPanel,Magic Number,The method contains a magic number: 16,97
+Source Code,ShopAssistant,StaffAttendancePage,setintputPanel,Magic Number,The method contains a magic number: 16,97
+Source Code,ShopAssistant,StaffAttendancePage,setOutputTextArea,Magic Number,The method contains a magic number: 16,160
+Source Code,ShopAssistant,StaffAttendancePage,setStaffAttendanceFeatures,Complex Method,Cyclomatic complexity of the method is 13,172
+Source Code,ShopAssistant,StaffAttendancePage,setStaffAttendanceFeatures,Empty catch clause,The method has an empty catch block.,172
+Source Code,ShopAssistant,StaffAttendancePage,setStaffAttendanceFeatures,Magic Number,The method contains a magic number: 10,172
+Source Code,ShopAssistant,StaffAttendancePage,setStaffAttendanceFeatures,Magic Number,The method contains a magic number: 10,172
+Source Code,ShopAssistant,StaffAttendancePage,setStaffAttendanceFeatures,Magic Number,The method contains a magic number: 11,172
+Source Code,ShopAssistant,StaffAttendancePage,setStaffAttendanceFeatures,Magic Number,The method contains a magic number: 3,172
+Source Code,ShopAssistant,StaffAttendancePage,setStaffAttendanceFeatures,Magic Number,The method contains a magic number: 5,172
+Source Code,ShopAssistant,StaffAttendancePage,setStaffAttendanceFeatures,Magic Number,The method contains a magic number: 12,172
+Source Code,ShopAssistant,StaffAttendancePage,actionPerformed,Magic Number,The method contains a magic number: 10,179
+Source Code,ShopAssistant,StaffAttendancePage,actionPerformed,Magic Number,The method contains a magic number: 10,179
+Source Code,ShopAssistant,StaffAttendancePage,actionPerformed,Complex Method,Cyclomatic complexity of the method is 8,231
+Source Code,ShopAssistant,StaffAttendancePage,actionPerformed,Magic Number,The method contains a magic number: 11,231
+Source Code,ShopAssistant,StaffAttendancePage,actionPerformed,Magic Number,The method contains a magic number: 3,231
+Source Code,ShopAssistant,StaffAttendancePage,actionPerformed,Magic Number,The method contains a magic number: 5,231
+Source Code,ShopAssistant,StaffAttendancePage,actionPerformed,Magic Number,The method contains a magic number: 12,231
+Source Code,ShopAssistant,StaffAttendancePage,actionPerformed,Empty catch clause,The method has an empty catch block.,300
+Source Code,ShopAssistant,StockCheckPage,setPageButton,Magic Number,The method contains a magic number: 16,43
+Source Code,ShopAssistant,StockCheckPage,setMainPanel,Magic Number,The method contains a magic number: 120,53
+Source Code,ShopAssistant,StockCheckPage,setMainPanel,Magic Number,The method contains a magic number: 50,53
+Source Code,ShopAssistant,StockCheckPage,setMainPanel,Magic Number,The method contains a magic number: 6,53
+Source Code,ShopAssistant,StockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,79
+Source Code,ShopAssistant,StockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,79
+Source Code,ShopAssistant,StockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,79
+Source Code,ShopAssistant,StockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,79
+Source Code,ShopAssistant,StockCheckPage,setOutputPanel,Magic Number,The method contains a magic number: 16,79
+Source Code,Templates,DashBoardTemplate,setFrame,Magic Number,The method contains a magic number: 1000,51
+Source Code,Templates,DashBoardTemplate,setFrame,Magic Number,The method contains a magic number: 600,51
+Source Code,Templates,DashBoardTemplate,setPanels,Magic Number,The method contains a magic number: 3,75
+Source Code,Templates,DashBoardTemplate,setPanels,Magic Number,The method contains a magic number: 8,75
+Source Code,Templates,DashBoardTemplate,setHorizontalPanelComponents,Magic Number,The method contains a magic number: 16,98
+Source Code,Templates,DashBoardTemplate,setHorizontalPanelComponents,Magic Number,The method contains a magic number: 3,98
+Source Code,Templates,DashBoardTemplate,setVerticalPanelComponents,Long Statement,The length of the statement "ImageIcon icons[]={homeButtonIcon`addCostButtonIcon`dailyIncomeCostButtonIcon`stockCheckButtonIcon`stockCheckButtonIcon`dueCheckButtonIcon`staffAttendanceButtonIcon`settingsButtonIcon};" is 185.,120
+Source Code,Templates,DashBoardTemplate,setVerticalPanelComponents,Long Statement,The length of the statement "String buttonNames[]={"Home"`"Add Cost"`"Daily Income Cost"`"Stock Check"`"Advanced Stock Check"`"Due Check"`"Staff Attendance"`"Settings"};" is 140.,120
+Source Code,Templates,DashBoardTemplate,setVerticalPanelComponents,Magic Number,The method contains a magic number: 16,120
+Source Code,Templates,DashBoardTemplate,setActionListeners,Empty catch clause,The method has an empty catch block.,141
+Source Code,Templates,DashBoardTemplate,setActionListeners,Empty catch clause,The method has an empty catch block.,141
+Source Code,Templates,DashBoardTemplate,setActionListeners,Long Method,The method has 110 lines of code.,141
+Source Code,Templates,DashBoardTemplate,actionPerformed,Empty catch clause,The method has an empty catch block.,269
+Source Code,Templates,DashBoardTemplate,actionPerformed,Empty catch clause,The method has an empty catch block.,299
+Source Code,Templates,FrameSetup,setFrame,Magic Number,The method contains a magic number: 900,54
+Source Code,Templates,FrameSetup,setFrame,Magic Number,The method contains a magic number: 500,54
+Source Code,Templates,FrameSetup,setProductTypes,Empty catch clause,The method has an empty catch block.,96
+Source Code,Templates,FrameSetup,setProductTypes,Magic Number,The method contains a magic number: 80,96
+Source Code,Templates,FrameSetup,setProductTypes,Magic Number,The method contains a magic number: 80,96
+Source Code,Templates,FrameSetup,isDigit,Complex Conditional,The conditional expression character != '0' && character != '1' && character != '2' && character != '3' && character != '4' && character != '5' && character != '6' && character != '7' && character != '8' && character != '9' && character != (char)8 && character != (char)10 is complex.,129
+Source Code,Templates,FrameSetup,isDigit,Long Statement,The length of the statement "if (character != '0' && character != '1' && character != '2' && character != '3' && character != '4' && character != '5' && character != '6' && character != '7' && character != '8' && character != '9' && character != (char)8 && character != (char)10) {" is 252.,129
+Source Code,Templates,FrameSetup,isDigit,Magic Number,The method contains a magic number: 8,129
+Source Code,Templates,FrameSetup,isDigit,Magic Number,The method contains a magic number: 10,129
+Source Code,Templates,FrameSetup,getRemainingQuantity,Empty catch clause,The method has an empty catch block.,154
+Source Code,Templates,FrameSetup,getRemainingQuantity,Magic Number,The method contains a magic number: 10,154
+Source Code,Templates,FrameSetup,getRemainingQuantityUsingDate,Empty catch clause,The method has an empty catch block.,233
+Source Code,Templates,FrameSetup,getRemainingQuantityUsingDate,Magic Number,The method contains a magic number: 10,233
+Source Code,Templates,FrameSetup,getPassword,Magic Number,The method contains a magic number: 9,293
+Source Code,Templates,InvoiceGeneratorTemplate,setFrame,Magic Number,The method contains a magic number: 950,71
+Source Code,Templates,InvoiceGeneratorTemplate,setFrame,Magic Number,The method contains a magic number: 600,71
+Source Code,Templates,InvoiceGeneratorTemplate,setContainer,Magic Number,The method contains a magic number: 15,81
+Source Code,Templates,InvoiceGeneratorTemplate,setPanels,Magic Number,The method contains a magic number: 4,91
+Source Code,Templates,InvoiceGeneratorTemplate,setPanels,Magic Number,The method contains a magic number: 4,91
+Source Code,Templates,InvoiceGeneratorTemplate,setPanels,Magic Number,The method contains a magic number: 2,91
+Source Code,Templates,InvoiceGeneratorTemplate,setPanels,Magic Number,The method contains a magic number: 10,91
+Source Code,Templates,InvoiceGeneratorTemplate,setPanels,Magic Number,The method contains a magic number: 2,91
+Source Code,Templates,InvoiceGeneratorTemplate,setButtons,Long Identifier,The length of the identifier horizontalPanelBottomButtonNames is 32.,125
+Source Code,Templates,InvoiceGeneratorTemplate,setButtons,Long Identifier,The length of the identifier horizontalPanelBottomButtonIcons is 32.,125
+Source Code,Templates,InvoiceGeneratorTemplate,setButtons,Magic Number,The method contains a magic number: 16,125
+Source Code,Templates,InvoiceGeneratorTemplate,setButtons,Magic Number,The method contains a magic number: 3,125
+Source Code,Templates,InvoiceGeneratorTemplate,setButtons,Magic Number,The method contains a magic number: 16,125
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 5,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 2,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 7,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 18,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 18,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 18,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 18,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 18,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 18,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 18,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 18,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 18,258
+Source Code,Templates,InvoiceGeneratorTemplate,setOutputPanel,Magic Number,The method contains a magic number: 18,258
+Source Code,Templates,InvoiceGeneratorTemplate,setId,Empty catch clause,The method has an empty catch block.,317
+Source Code,Templates,InvoiceGeneratorTemplate,setId,Magic Number,The method contains a magic number: 10,317
+Source Code,Templates,InvoiceGeneratorTemplate,setId,Magic Number,The method contains a magic number: 10,317
+Source Code,Templates,InvoiceGeneratorTemplate,setPayment,Empty catch clause,The method has an empty catch block.,358
+Source Code,Templates,InvoiceGeneratorTemplate,setPayment,Magic Number,The method contains a magic number: 1000000000,358
+Source Code,Templates,InvoiceGeneratorTemplate,setDue,Empty catch clause,The method has an empty catch block.,379
+Source Code,Templates,InvoiceGeneratorTemplate,setDue,Long Statement,The length of the statement "int answer=Math.round(Float.parseFloat(totalPaymentTextField.getText()) - Float.parseFloat(totalPaidTextField.getText()));" is 122.,379
+Source Code,Templates,InvoiceGeneratorTemplate,checkAllFilledUp,Complex Conditional,The conditional expression "".equals(idTextField.getText()) || "".equals(dateTextField.getText()) || "".equals(nameTextField.getText())|| "".equals(addressTextField.getText())|| "".equals(mobileNumberTextField.getText())|| "".equals(productTypeCombobox.getSelectedItem())|| "".equals(modelNumberCombobox.getSelectedItem())|| "".equals(quantityTextField.getText())|| "".equals(unitPriceTextField.getText())|| "".equals(paymentTextField.getText()) is complex.,429
+Source Code,Templates,InvoiceGeneratorTemplate,checkAllFilledUp,Long Statement,The length of the statement "if ("".equals(idTextField.getText()) || "".equals(dateTextField.getText()) || "".equals(nameTextField.getText())|| "".equals(addressTextField.getText())|| "".equals(mobileNumberTextField.getText())|| "".equals(productTypeCombobox.getSelectedItem())|| "".equals(modelNumberCombobox.getSelectedItem())|| "".equals(quantityTextField.getText())|| "".equals(unitPriceTextField.getText())|| "".equals(paymentTextField.getText())) {" is 425.,429
+Source Code,Templates,InvoiceGeneratorTemplate,addHTMLbegintext,Long Statement,The length of the statement "htmlText=htmlText + "<table width=\"100%\">" + "<tr style=\"text-align:center;font-size:18px;font-weight:bold;font-family:arial;color:red;\">Samir Electronics</tr>"+ "<tr style=\"font-family:arial;font-size:13px;font-weight:bold;text-align:center;color:blue;\">WALTON</tr>"+ "<tr style=\"text-align:center;font-size:13px;font-weight:bold;font-family:arial;\">Exclusive Showroom</tr>"+ "<tr style=\"text-align:center;font-size:9px;font-family:arial;\">Saiham Future Complex ` Madhabpur ` Habiganj</tr>"+ "<tr style=\"text-align:center;font-size:9px;font-family:arial;\">Mobile : 01748987951 ` 01746003532</tr>"+ "<tr style=\"text-align:center;font-size:7px;font-family:arial;\">Money Receipt</tr>"+ "</table>"+ "<br>"+ "<table width=\"100%\" style=\"font-size:8px\" >"+ "<tr>"+ "<td>"+ keyword+ " Name</td><td>:</td><td>"+ nameTextField.getText()+ "</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Invoice No</td><td>:</td><td>"+ idTextField.getText()+ "</td>"+ "</tr>"+ "<tr>"+ "<td>"+ keyword+ " Address</td><td>:</td><td>"+ addressTextField.getText()+ "</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Date & Time</td><td>:</td><td>"+ dateTextField.getText()+ "</td>"+ "</tr>"+ "<tr>"+ "<td>"+ keyword+ " Mobile Number</td><td>:</td><td>"+ mobileNumberTextField.getText()+ "</td>"+ "</tr>"+ "</table>"+ "<br>"+ "<br>"+ "<br>"+ "<table width=\"100%\" style=\"font-size:8px\" >"+ "<tr>"+ "<td>No.</td><td>Product Type</td><td>Product Model Number</td><td style=\"text-align:right\">Quantity</td><td style=\"text-align:right\">Unit Price</td><td style=\"text-align:right\">Payment</td>"+ "</tr>"+ "<tr>"+ "<td>"+ serialNo+ "</td><td>"+ productTypeCombobox.getSelectedItem()+ "</td><td>"+ modelNumberCombobox.getSelectedItem()+ "</td><td style=\"text-align:right\">"+ quantityTextField.getText()+ "</td><td style=\"text-align:right\">"+ unitPriceTextField.getText()+ "</td><td style=\"text-align:right\">"+ paymentTextField.getText()+ "</td>"+ "</tr>";" is 1978.,467
+Source Code,Templates,InvoiceGeneratorTemplate,addHTMLbegintext,Long Statement,The length of the statement "rawData=rawData + idTextField.getText() + "`"+ dateTextField.getText()+ "`"+ nameTextField.getText()+ "`"+ addressTextField.getText()+ "`"+ mobileNumberTextField.getText()+ "`"+ productTypeCombobox.getSelectedItem()+ "`"+ modelNumberCombobox.getSelectedItem()+ "`"+ quantityTextField.getText()+ "`"+ unitPriceTextField.getText()+ "`"+ paymentTextField.getText()+ "`";" is 367.,467
+Source Code,Templates,InvoiceGeneratorTemplate,addHTMLmidtext,Long Statement,The length of the statement "htmlText=htmlText + "<tr>" + "<td>"+ (serialNo=serialNo + 1)+ "</td><td>"+ productTypeCombobox.getSelectedItem()+ "</td><td>"+ modelNumberCombobox.getSelectedItem()+ "</td><td style=\"text-align:right\">"+ quantityTextField.getText()+ "</td><td style=\"text-align:right\">"+ unitPriceTextField.getText()+ "</td><td style=\"text-align:right\">"+ paymentTextField.getText()+ "</td>"+ "</tr>";" is 390.,512
+Source Code,Templates,InvoiceGeneratorTemplate,addHTMLmidtext,Long Statement,The length of the statement "rawData=rawData + productTypeCombobox.getSelectedItem() + "`"+ modelNumberCombobox.getSelectedItem()+ "`"+ quantityTextField.getText()+ "`"+ unitPriceTextField.getText()+ "`"+ paymentTextField.getText()+ "`";" is 208.,512
+Source Code,Templates,InvoiceGeneratorTemplate,addHTMLendtext,Long Statement,The length of the statement "htmlText=htmlText + "<tr>" + "<td></td><td></td><td></td><td></td><td style=\"text-align:right\">Subtotal</td><td style=\"text-align:right\">"+ subtotalTextField.getText()+ "</td>"+ "</tr>"+ "<tr>"+ "<td></td><td></td><td></td><td></td><td style=\"text-align:right\">Discount ( - )</td><td style=\"text-align:right\">"+ discountTextField.getText()+ "</td>"+ "</tr>"+ "<tr>"+ "<td></td><td></td><td></td><td></td><td style=\"text-align:right\">Total Payment</td><td style=\"text-align:right\">"+ totalPaymentTextField.getText()+ "</td>"+ "</tr>"+ "<tr>"+ "<td></td><td></td><td></td><td></td><td style=\"text-align:right\">Paid Amount</td><td style=\"text-align:right\">"+ totalPaidTextField.getText()+ "</td>"+ "</tr>"+ "<tr>"+ "<td></td><td></td><td></td><td></td><td style=\"text-align:right\">Due Amount</td><td style=\"text-align:right\">"+ totalDueTextField.getText()+ "</td>"+ "</tr>"+ "</table>"+ "<br>"+ "<br>"+ "<table width=\"100%\" style=\"font-size:10px\">"+ "<tr>"+ "<td>-----------------------</td><td style=\"text-align:right\">-----------------------</td>"+ "</tr>"+ "<tr>"+ "<td>Owner's Sign</td><td style=\"text-align:right\">"+ keyword+ "'s Sign</td>"+ "</tr>"+ "</table>";" is 1192.,527
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Complex Conditional,The conditional expression (demo[i] < 'a' || demo[i] > 'z') && (demo[i] < 'A' || demo[i] > 'Z') && demo[i] != (char)32 && demo[i] != (char)45 is complex.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Complex Conditional,The conditional expression demo[i] == (char)32 && demo[i + 1] >= 'a' && demo[i + 1] <= 'z' is complex.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Complex Conditional,The conditional expression (demo[i] < 'a' || demo[i] > 'z') && (demo[i] < 'A' || demo[i] > 'Z') && demo[i] != (char)32 && demo[i] != (char)45 && demo[i] != (char)47 && (demo[i] < '0' || demo[i] > '9') is complex.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Complex Conditional,The conditional expression demo[i] == (char)32 && demo[i + 1] >= 'a' && demo[i + 1] <= 'z' is complex.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Complex Conditional,The conditional expression count > 1 || (ke.getKeyChar() != '0' && ke.getKeyChar() != '1' && ke.getKeyChar() != '2' && ke.getKeyChar() != '3' && ke.getKeyChar() != '4' && ke.getKeyChar() != '5' && ke.getKeyChar() != '6' && ke.getKeyChar() != '7' && ke.getKeyChar() != '8' && ke.getKeyChar() != '9' && ke.getKeyChar() != (char)8 && ke.getKeyChar() != (char)10 && ke.getKeyChar() != (char)46) is complex.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Complex Conditional,The conditional expression !checkAllFilledUp() || "0".equals(quantityTextField.getText()) || "0".equals(unitPriceTextField.getText()) is complex.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Complex Conditional,The conditional expression "".equals(subtotalTextField.getText()) || "".equals(discountTextField.getText()) || "".equals(totalPaymentTextField.getText())|| "".equals(totalPaidTextField.getText())|| "".equals(totalDueTextField.getText())|| !cartEditorPane.getText().contains("WALTON") is complex.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Complex Method,Cyclomatic complexity of the method is 31,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Empty catch clause,The method has an empty catch block.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Empty catch clause,The method has an empty catch block.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Empty catch clause,The method has an empty catch block.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Empty catch clause,The method has an empty catch block.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Empty catch clause,The method has an empty catch block.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Empty catch clause,The method has an empty catch block.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Empty catch clause,The method has an empty catch block.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Long Method,The method has 333 lines of code.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Long Statement,The length of the statement "if ((demo[i] < 'a' || demo[i] > 'z') && (demo[i] < 'A' || demo[i] > 'Z') && demo[i] != (char)32 && demo[i] != (char)45) {" is 121.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Long Statement,The length of the statement "if ((demo[i] < 'a' || demo[i] > 'z') && (demo[i] < 'A' || demo[i] > 'Z') && demo[i] != (char)32 && demo[i] != (char)45 && demo[i] != (char)47 && (demo[i] < '0' || demo[i] > '9')) {" is 180.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Long Statement,The length of the statement "if (count > 1 || (ke.getKeyChar() != '0' && ke.getKeyChar() != '1' && ke.getKeyChar() != '2' && ke.getKeyChar() != '3' && ke.getKeyChar() != '4' && ke.getKeyChar() != '5' && ke.getKeyChar() != '6' && ke.getKeyChar() != '7' && ke.getKeyChar() != '8' && ke.getKeyChar() != '9' && ke.getKeyChar() != (char)8 && ke.getKeyChar() != (char)10 && ke.getKeyChar() != (char)46)) {" is 370.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Long Statement,The length of the statement "int choice=JOptionPane.showConfirmDialog(null`"Are Your Sure?\n\n\n\n\nID : " + idTextField.getText() + "\nDate : "+ dateTextField.getText()+ "\n"+ keyword+ " Name : "+ nameTextField.getText()+ "\n"+ keyword+ " Address : "+ addressTextField.getText()+ "\n"+ keyword+ " Mobile Number : "+ mobileNumberTextField.getText()+ "\nProduct Type : "+ productTypeCombobox.getSelectedItem()+ "\nModel Number : "+ modelNumberCombobox.getSelectedItem()+ "\nQuantity : "+ quantityTextField.getText()+ "\nPer Item Price : "+ unitPriceTextField.getText()+ "\nPayment : "+ paymentTextField.getText()+ "\n\n\n\n\n\n"`"Confirm"`JOptionPane.YES_NO_OPTION);" is 636.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Long Statement,The length of the statement "if ("".equals(subtotalTextField.getText()) || "".equals(discountTextField.getText()) || "".equals(totalPaymentTextField.getText())|| "".equals(totalPaidTextField.getText())|| "".equals(totalDueTextField.getText())|| !cartEditorPane.getText().contains("WALTON")) {" is 263.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Long Statement,The length of the statement "q.append("S200000000" + "`" + dateTextField.getText() + "`"+ "Income By Product Sale "+ "`"+ nameTextField.getText()+ "`"+ addressTextField.getText()+ "`"+ mobileNumberTextField.getText()+ "`"+ totalPaidTextField.getText()+ "\n");" is 230.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Long Statement,The length of the statement "q.append("P100000000" + "`" + dateTextField.getText() + "`"+ "Cost By Product Purchase "+ "`"+ nameTextField.getText()+ "`"+ addressTextField.getText()+ "`"+ mobileNumberTextField.getText()+ "`"+ totalPaidTextField.getText()+ "\n");" is 232.,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 32,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 32,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 45,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 32,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 32,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 32,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 32,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 45,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 47,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 32,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 32,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 11,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 8,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 10,565
+Source Code,Templates,InvoiceGeneratorTemplate,setListeners,Magic Number,The method contains a magic number: 46,565
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Complex Conditional,The conditional expression (demo[i] < 'a' || demo[i] > 'z') && (demo[i] < 'A' || demo[i] > 'Z') && demo[i] != (char)32 && demo[i] != (char)45 is complex.,579
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Complex Conditional,The conditional expression demo[i] == (char)32 && demo[i + 1] >= 'a' && demo[i + 1] <= 'z' is complex.,579
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Empty catch clause,The method has an empty catch block.,579
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Long Statement,The length of the statement "if ((demo[i] < 'a' || demo[i] > 'z') && (demo[i] < 'A' || demo[i] > 'Z') && demo[i] != (char)32 && demo[i] != (char)45) {" is 121.,579
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 32,579
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 32,579
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 45,579
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 32,579
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 32,579
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Complex Conditional,The conditional expression (demo[i] < 'a' || demo[i] > 'z') && (demo[i] < 'A' || demo[i] > 'Z') && demo[i] != (char)32 && demo[i] != (char)45 && demo[i] != (char)47 && (demo[i] < '0' || demo[i] > '9') is complex.,620
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Complex Conditional,The conditional expression demo[i] == (char)32 && demo[i + 1] >= 'a' && demo[i + 1] <= 'z' is complex.,620
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Empty catch clause,The method has an empty catch block.,620
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Long Statement,The length of the statement "if ((demo[i] < 'a' || demo[i] > 'z') && (demo[i] < 'A' || demo[i] > 'Z') && demo[i] != (char)32 && demo[i] != (char)45 && demo[i] != (char)47 && (demo[i] < '0' || demo[i] > '9')) {" is 180.,620
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 32,620
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 32,620
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 45,620
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 47,620
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 32,620
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 32,620
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 11,661
+Source Code,Templates,InvoiceGeneratorTemplate,actionPerformed,Empty catch clause,The method has an empty catch block.,683
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Complex Conditional,The conditional expression count > 1 || (ke.getKeyChar() != '0' && ke.getKeyChar() != '1' && ke.getKeyChar() != '2' && ke.getKeyChar() != '3' && ke.getKeyChar() != '4' && ke.getKeyChar() != '5' && ke.getKeyChar() != '6' && ke.getKeyChar() != '7' && ke.getKeyChar() != '8' && ke.getKeyChar() != '9' && ke.getKeyChar() != (char)8 && ke.getKeyChar() != (char)10 && ke.getKeyChar() != (char)46) is complex.,735
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Long Statement,The length of the statement "if (count > 1 || (ke.getKeyChar() != '0' && ke.getKeyChar() != '1' && ke.getKeyChar() != '2' && ke.getKeyChar() != '3' && ke.getKeyChar() != '4' && ke.getKeyChar() != '5' && ke.getKeyChar() != '6' && ke.getKeyChar() != '7' && ke.getKeyChar() != '8' && ke.getKeyChar() != '9' && ke.getKeyChar() != (char)8 && ke.getKeyChar() != (char)10 && ke.getKeyChar() != (char)46)) {" is 370.,735
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 8,735
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 10,735
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Magic Number,The method contains a magic number: 46,735
+Source Code,Templates,InvoiceGeneratorTemplate,keyReleased,Empty catch clause,The method has an empty catch block.,772
+Source Code,Templates,InvoiceGeneratorTemplate,actionPerformed,Complex Conditional,The conditional expression !checkAllFilledUp() || "0".equals(quantityTextField.getText()) || "0".equals(unitPriceTextField.getText()) is complex.,903
+Source Code,Templates,InvoiceGeneratorTemplate,actionPerformed,Long Statement,The length of the statement "int choice=JOptionPane.showConfirmDialog(null`"Are Your Sure?\n\n\n\n\nID : " + idTextField.getText() + "\nDate : "+ dateTextField.getText()+ "\n"+ keyword+ " Name : "+ nameTextField.getText()+ "\n"+ keyword+ " Address : "+ addressTextField.getText()+ "\n"+ keyword+ " Mobile Number : "+ mobileNumberTextField.getText()+ "\nProduct Type : "+ productTypeCombobox.getSelectedItem()+ "\nModel Number : "+ modelNumberCombobox.getSelectedItem()+ "\nQuantity : "+ quantityTextField.getText()+ "\nPer Item Price : "+ unitPriceTextField.getText()+ "\nPayment : "+ paymentTextField.getText()+ "\n\n\n\n\n\n"`"Confirm"`JOptionPane.YES_NO_OPTION);" is 636.,903
+Source Code,Templates,InvoiceGeneratorTemplate,actionPerformed,Complex Conditional,The conditional expression "".equals(subtotalTextField.getText()) || "".equals(discountTextField.getText()) || "".equals(totalPaymentTextField.getText())|| "".equals(totalPaidTextField.getText())|| "".equals(totalDueTextField.getText())|| !cartEditorPane.getText().contains("WALTON") is complex.,936
+Source Code,Templates,InvoiceGeneratorTemplate,actionPerformed,Empty catch clause,The method has an empty catch block.,936
+Source Code,Templates,InvoiceGeneratorTemplate,actionPerformed,Empty catch clause,The method has an empty catch block.,936
+Source Code,Templates,InvoiceGeneratorTemplate,actionPerformed,Long Statement,The length of the statement "if ("".equals(subtotalTextField.getText()) || "".equals(discountTextField.getText()) || "".equals(totalPaymentTextField.getText())|| "".equals(totalPaidTextField.getText())|| "".equals(totalDueTextField.getText())|| !cartEditorPane.getText().contains("WALTON")) {" is 263.,936
+Source Code,Templates,InvoiceGeneratorTemplate,actionPerformed,Long Statement,The length of the statement "q.append("S200000000" + "`" + dateTextField.getText() + "`"+ "Income By Product Sale "+ "`"+ nameTextField.getText()+ "`"+ addressTextField.getText()+ "`"+ mobileNumberTextField.getText()+ "`"+ totalPaidTextField.getText()+ "\n");" is 230.,936
+Source Code,Templates,InvoiceGeneratorTemplate,actionPerformed,Long Statement,The length of the statement "q.append("P100000000" + "`" + dateTextField.getText() + "`"+ "Cost By Product Purchase "+ "`"+ nameTextField.getText()+ "`"+ addressTextField.getText()+ "`"+ mobileNumberTextField.getText()+ "`"+ totalPaidTextField.getText()+ "\n");" is 232.,936
+Source Code,Templates,InvoiceGeneratorTemplate,actionPerformed,Empty catch clause,The method has an empty catch block.,985
+Source Code,Templates,StartingTemplate,setContainer,Magic Number,The method contains a magic number: 100,26
+Source Code,Templates,StartingTemplate,setContainer,Magic Number,The method contains a magic number: 30,26
+Source Code,Templates,StartingTemplate,setPanels,Magic Number,The method contains a magic number: 2,38
